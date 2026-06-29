@@ -1,0 +1,4 @@
+# Filter files that end in .in, .out, .pyc
+*.in
+*.out
+*.pyc
